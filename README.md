@@ -1,3 +1,4 @@
-# GAME2014-F2020-Lesson13
+# GAME2014 - Lab 10
 
-Demo Project for GAME2014 - Lesson 13
+Shun min Hsieh
+101212629
