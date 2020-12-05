@@ -28,8 +28,8 @@ TagManager:
   - Player
   - Bullet
   - AI
-  - 
-  - 
+  - HealthBar
+  - PlayerMarker
   - 
   - 
   - 

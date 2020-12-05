@@ -77,7 +77,6 @@ public class PlayerBehaviour : MonoBehaviour
 
         sounds = GetComponents<AudioSource>();
 
-        vcam1 = FindObjectOfType<CinemachineVirtualCamera>();
         perlin = vcam1.GetCinemachineComponent<CinemachineBasicMultiChannelPerlin>();
     }
 
